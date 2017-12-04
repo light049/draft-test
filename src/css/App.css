@@ -1,0 +1,10 @@
+.App {
+  padding: 20px;
+}
+.modal-body {
+  min-height: 150px;
+}
+.content-editable-sec,
+.draft-js-sec {
+  margin-top: 20px;
+}
